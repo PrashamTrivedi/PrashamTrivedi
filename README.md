@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A developer with proven experience on Android and keen interest in Node JS and Backend technologies. My work includes mobile apps, backend servers and occasionally working on web frontends to deliver performant solutions. I have worked on every stage from Idea to delivery. I am looking forward to move to backend technologies as a power-up on Android Experience. I have lead teams to deliver a solution that has helped local businesses and used to serve thousands of users. I have had experience in Edu-Tech, E-Commerse, Personal Productivity, Communications and Geographic data. When not doing regular day-to-day job, I regularly write scripts, and strengthening tools that helps fellow developers to automate some tasks or reduce errors.
+A developer with proven experience on Android and Node JS and Backend technologies. My work includes backend servers,mobile apps and occasionally working on web frontends to deliver performant solutions. I have worked on every stage from Idea to delivery. 
+
+I have lead teams to deliver a solution that has helped local businesses and used to serve thousands of users. I have experience in Edu-Tech, E-Commerse, Personal Productivity, Communications and Geographic data. When not doing regular day-to-day job, I regularly write scripts, and strengthening tools that helps fellow developers to automate some tasks or reduce errors.
 
 # Technologies
 - Programming Languages: Kotlin, JavaScript, TypeScript, Java.
@@ -22,6 +24,7 @@ A developer with proven experience on Android and keen interest in Node JS and B
 - Database: Postgres, Sqlite and Redis
 - Cloud Providers: AWS, GCP (Mainly Firebase)
 - Specialization: Mobile Apps, Cloud Native Stack, Opensource Tools.
+- Certifications: AWS Solution Architect Associate, Redis Basics, RediSearch, Redis Security
 
 # How to reach me.
 - Email: [contact@prashamhtrivedi.in](mailto:contact@prashamhtrivedi.in)
