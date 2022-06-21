@@ -22,7 +22,7 @@ I have lead teams to deliver a solution that has helped local businesses and use
 - Frontend: Android and occasionally Angular
 - Backend: Node JS
 - CLI Development: GoLang, NodeJs
-- Database: Postgres,Redis,DynamoDB and Sqlite
+- Database: Postgres, Redis, MongoDB, DynamoDB and Sqlite
 - Cloud Providers: AWS, Firebase
 - Others: Docker, ElasticSearch
 - Specialization: Mobile Apps, Cloud Native Stack, Opensource Tools.
