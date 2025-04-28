@@ -13,28 +13,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A developer with proven experience on Android and Node JS and Backend technologies. My work includes backend servers,mobile apps and occasionally working on web frontends to deliver performant solutions. I have worked on every stage from Idea to delivery. 
+# Hi, I'm Prasham Trivedi 👋
 
-I have lead teams to deliver a solution that has helped local businesses and used to serve thousands of users. I have experience in Edu-Tech, E-Commerse, Personal Productivity, Communications and Geographic data. When not doing regular day-to-day job, I regularly write scripts, and strengthening tools that helps fellow developers to automate some tasks or reduce errors.
+I'm a Serverless & AI Solutions Consultant specializing in cloud-native architectures, AI/LLM integration, and mobile development with 15+ years of experience.
 
-# Technologies
-- Programming Languages: JavaScript, TypeScript, GoLang, Kotlin, Java.
-- Frontend: Android and occasionally Angular
-- Backend: Node JS
-- CLI Development: GoLang, NodeJs
-- Database: Postgres, Redis, MongoDB, DynamoDB and Sqlite
-- Cloud Providers: AWS, Firebase
-- Others: Docker, ElasticSearch
-- Specialization: Mobile Apps, Cloud Native Stack, Opensource Tools.
-- Certifications: AWS Solution Architect Associate, Redis Basics, RediSearch, Redis Security
+## What I Do
 
-# How to reach me.
-- Email: [contact@prashamhtrivedi.in](mailto:contact@prashamhtrivedi.in)
-- Website: [My Website](https://prashamhtrivedi.in/)
-- Linkedin: [Prasham Trivedi](https://www.linkedin.com/in/prasham-trivedi-71521724/)
+I help businesses transform their technology through:
 
-# Non-technical things I am interested in.
-- Football (Soccer for US)
-- Interesting Books (Mainly about history and fiction)
-- Star Wars 
-- Comic Book Movies
+- 🚀 **Serverless Architecture**: Designing scalable, cost-effective AWS Lambda solutions
+- 🤖 **AI & LLM Integration**: Building practical applications leveraging AI capabilities
+- 📱 **Mobile Engineering**: Creating robust cross-platform mobile experiences
+- 💻 **Developer Tooling**: Crafting automation tools that improve development workflows
+
+## My Tech Stack
+
+### Cloud & Serverless
+AWS Lambda, DynamoDB, SES, API Gateway, Firebase
+
+### AI & Data
+LLM Integration, MongoDB, Redis, PostgreSQL, ElasticSearch
+
+### Languages
+TypeScript, JavaScript, Kotlin, Java, GoLang
+
+### Frameworks & Tools
+Node.js, React, Docker
+
+## Connect With Me
+
+- 🌐 [Website](https://prashamhtrivedi.in)
+- 📧 [Email](mailto:contact@prashamhtrivedi.in)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prasham-trivedi-71521724/)
+- 🐦 [X](https://x.com/prashhtrivedi)
+
+## Beyond Tech
+
+When I'm not coding, I enjoy following FC Barcelona, reading about history, and everything Star Wars and Marvel.
